@@ -29,5 +29,3 @@ audio.py        # Audio synthesis & export
 morse.py        # Morse timing generation
 utils.py        # Helpers
 ```
-
-73 de KF5JEX 🛰️
