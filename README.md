@@ -4,16 +4,9 @@ A graphical Morse code generator and player with support for `.paris` timing fil
 
 ## Features
 - Adjustable Character WPM, Letter spacing, Word spacing
-- Manual Start/Stop playback (no autoplay)
 - Live timing graph
 - Import and export `.paris` files
-- Export audio to `.wav` or `.mp3` (requires `pydub` + `ffmpeg`)
-
-## Installation
-```bash
-pip install pydub
-sudo apt install ffmpeg   # or brew install ffmpeg (macOS)
-```
+- Export audio to `.wav` or `.mp3` (requires `pydub` + `ffmpeg`) MP3 EXPORT BROKEN
 
 ## Usage
 Run the app:
